@@ -7,7 +7,7 @@
 - [Build A Tribute Page](https://github.com/talitastravassos/doctor-who-tribute) ✔
 - [Build A Survey Form](https://github.com/talitastravassos/survey-form) ✔
 - Build A Product Landing Page
-- [Build A Technical Documentation Page](https://talitastravassos.github.io/technical-documentation-page/) ✔
+- [Build A Technical Documentation Page](https://github.com/talitastravassos/technical-documentation-page) ✔
 - Build A Personal Portfolio Webpage
 
 ### Certification
