@@ -8,7 +8,7 @@
 - [Build A Survey Form](https://github.com/talitastravassos/survey-form) ✔
 - [Build A Product Landing Page](https://github.com/talitastravassos/headphone-landing-page) ✔
 - [Build A Technical Documentation Page](https://github.com/talitastravassos/technical-documentation-page) ✔
-- Build A Personal Portfolio Webpage
+- [Build A Personal Portfolio Webpage](https://talitastravassos.github.io/)
 
 ### Certification
 
