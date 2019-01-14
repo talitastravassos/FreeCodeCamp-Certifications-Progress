@@ -17,8 +17,8 @@
 
 ## 02. JavaScript Algorithms and Data Structures Certification (300 hours)
 
-- Palindrome Checker
-- Roman Numeral Converter
+- [Palindrome Checker](https://github.com/talitastravassos/JavaScript-Algorithms-and-Data-Structures-Projects-FCC/blob/master/palindromeChecker.js) ✔
+- [Roman Numeral Converter](https://github.com/talitastravassos/JavaScript-Algorithms-and-Data-Structures-Projects-FCC/blob/master/romanNumeralConverter.js) ✔
 - Caesars Cipher
 - Telephone Number Validator
 - Cash Register
