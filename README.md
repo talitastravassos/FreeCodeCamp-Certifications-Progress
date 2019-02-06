@@ -19,8 +19,8 @@
 
 - [Palindrome Checker](https://github.com/talitastravassos/JavaScript-Algorithms-and-Data-Structures-Projects-FCC/blob/master/palindromeChecker.js) ✔
 - [Roman Numeral Converter](https://github.com/talitastravassos/JavaScript-Algorithms-and-Data-Structures-Projects-FCC/blob/master/romanNumeralConverter.js) ✔
-- Caesars Cipher
-- [Telephone Number Validator](https://github.com/talitastravassos/JavaScript-Algorithms-and-Data-Structures-Projects-FCC/blob/master/telephoneNumberValidator.js)
+- [Caesars Cipher](https://github.com/talitastravassos/JavaScript-Algorithms-and-Data-Structures-Projects-FCC/blob/master/caesarsCipher.js) ✔
+- [Telephone Number Validator](https://github.com/talitastravassos/JavaScript-Algorithms-and-Data-Structures-Projects-FCC/blob/master/telephoneNumberValidator.js)✔
 - Cash Register
 
 ### Certification
