@@ -23,7 +23,7 @@
 - [Telephone Number Validator](https://github.com/talitastravassos/JavaScript-Algorithms-and-Data-Structures-Projects-FCC/blob/master/telephoneNumberValidator.js)✔
 - [Cash Register](https://github.com/talitastravassos/JavaScript-Algorithms-and-Data-Structures-Projects-FCC/blob/master/cashRegister.js) ✔
 
-### Certification
+### Certification: https://www.freecodecamp.org/certification/talitastravassos/javascript-algorithms-and-data-structures
 
 ---
 
