@@ -21,7 +21,7 @@
 - [Roman Numeral Converter](https://github.com/talitastravassos/JavaScript-Algorithms-and-Data-Structures-Projects-FCC/blob/master/romanNumeralConverter.js) ✔
 - [Caesars Cipher](https://github.com/talitastravassos/JavaScript-Algorithms-and-Data-Structures-Projects-FCC/blob/master/caesarsCipher.js) ✔
 - [Telephone Number Validator](https://github.com/talitastravassos/JavaScript-Algorithms-and-Data-Structures-Projects-FCC/blob/master/telephoneNumberValidator.js)✔
-- Cash Register
+- [Cash Register](https://github.com/talitastravassos/JavaScript-Algorithms-and-Data-Structures-Projects-FCC/blob/master/cashRegister.js) ✔
 
 ### Certification
 
