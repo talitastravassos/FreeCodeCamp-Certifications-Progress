@@ -29,7 +29,7 @@
 
 ## 03. Front End Libraries Certification (300 hours)
 
-- Build A Random Quote Machine
+- [Build A Random Quote Machine](https://github.com/talitastravassos/random-quote-machine) ✔
 - Build A Markdown Previewer
 - Build A Drum Machine
 - Build A Java Script Calculator
