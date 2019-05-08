@@ -32,7 +32,7 @@
 - [Build A Random Quote Machine](https://github.com/talitastravassos/random-quote-machine) ✔
 - [Build A Markdown Previewer](https://github.com/talitastravassos/markdown-previewer) ✔
 - Build A Drum Machine
-- Build A Java Script Calculator
+- [Build A JavaScript Calculator](https://github.com/talitastravassos/calculator-react) ✔
 - Build A Pomodoro Clock
 
 ### Certification
