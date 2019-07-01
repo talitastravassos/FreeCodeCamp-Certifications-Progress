@@ -31,11 +31,11 @@
 
 - [Build A Random Quote Machine](https://github.com/talitastravassos/random-quote-machine) ✔
 - [Build A Markdown Previewer](https://github.com/talitastravassos/markdown-previewer) ✔
-- Build A Drum Machine
+- [Build A Drum Machine](https://github.com/talitastravassos/drum-machine) ✔
 - [Build A JavaScript Calculator](https://github.com/talitastravassos/calculator-react) ✔
 - [Build A Pomodoro Clock](https://codepen.io/talitastravassos/full/OYdBmd) ✔
 
-### Certification
+### Certification: https://www.freecodecamp.org/certification/talitastravassos/front-end-libraries
 
 ---
 
